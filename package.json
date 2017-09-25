@@ -1,0 +1,23 @@
+{
+  "name": "number-formatter",
+  "version": "1.0.0",
+  "description": "This is just a test",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aaqib90/Number-fromatter.git"
+  },
+  "author": "Md Aaqib Jawed <mailmeaaqib@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aaqib90/Number-fromatter/issues"
+  },
+  "homepage": "https://github.com/aaqib90/Number-fromatter#readme",
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^3.5.3"
+  }
+}
